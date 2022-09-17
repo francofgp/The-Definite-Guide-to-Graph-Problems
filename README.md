@@ -14,7 +14,7 @@ To read the article, click the following link 👉 [The Definite Guide to Graph 
 
 ## Purpose of this Project
 
-[The Definite Guide to Graph Problems](https://www.giulianopertile.com/blog/the-definitive-guide-to-graph-problems/) was created to help people solve graph problems in order to have a successful coding interview, as well as to improve problem solving skills.
+[The Definite Guide to Graph Problems](https://www.giulianopertile.com/blog/the-definitive-guide-to-graph-problems/) was created to help people solve graph problems in order to succeed in coding interviews, as well as to improve problem solving skills.
 
 ## Run the Problems
 
