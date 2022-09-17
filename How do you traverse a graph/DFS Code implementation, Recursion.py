@@ -4,7 +4,7 @@ def breadth_first_search(graph,starting_node):
     for neighbor in graph[starting_node]: 
         # Create your base cases. In this case my base is when the for loop contains zero elements.
         # When that is the case I do not call the breadth_first_search function
-        # Traverse all the neighbor nodes and call the recursive function with the index of the neighbor node.
+        # Traverse all the neighboring nodes and call the recursive function with the index of the neighboring node.
         breadth_first_search(graph, neighbor)
 
 graph = {

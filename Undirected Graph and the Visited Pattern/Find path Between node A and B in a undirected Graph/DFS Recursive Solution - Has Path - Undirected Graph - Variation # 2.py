@@ -3,7 +3,7 @@ def has_path(graph, starting_node, destination, visited = set()):
     if starting_node == destination: 
         return True
     for neighbor in graph[starting_node]:
-        # We ask if our neighbor node has been visited
+        # We ask if our neighboring node has been visited
         if neighbor in visited:
             continue
         # we mark our neighbor has visited, so that in the next recursion call
