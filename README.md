@@ -10,8 +10,6 @@
 
 This repository contains exercises from [The Definite Guide to Graph Problems](https://www.giulianopertile.com/blog/the-definitive-guide-to-graph-problems/).
 
-To read the article, click the following link 👉 [The Definite Guide to Graph Problems](https://www.giulianopertile.com/blog/the-definitive-guide-to-graph-problems/)
-
 ## Table of Contents
 
 - [The Definite Guide to Graph Problems](#the-definite-guide-to-graph-problems)
