@@ -12,6 +12,15 @@ This repository contains exercises from [The Definite Guide to Graph Problems](h
 
 To read the article, click the following link 👉 [The Definite Guide to Graph Problems](https://www.giulianopertile.com/blog/the-definitive-guide-to-graph-problems/)
 
+## Table of Contents
+
+- [The Definite Guide to Graph Problems](#the-definite-guide-to-graph-problems)
+  - [Table of Contents](#table-of-contents)
+  - [Purpose of this Project](#purpose-of-this-project)
+  - [Run the Problems](#run-the-problems)
+  - [How to Contribute](#how-to-contribute)
+  - [License](#license)
+
 ## Purpose of this Project
 
 [The Definite Guide to Graph Problems](https://www.giulianopertile.com/blog/the-definitive-guide-to-graph-problems/) was created to help people solve graph problems in order to succeed in coding interviews, as well as to improve problem solving skills.
@@ -30,7 +39,7 @@ cd The-Definite-Guide-to-Graph-Problems/
 python '.\Adjacency List as my Graph representation.py'
 ```
 
-## How to contribute
+## How to Contribute
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
