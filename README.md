@@ -34,7 +34,7 @@ cd The-Definite-Guide-to-Graph-Problems/
 2. This project requieres no external dependencies. To run the files just `cd` into the folder that you want and run the following
 
 ```bash
-python '.\Adjacency List as my Graph representation.py'
+python '.\Breadth-First-Search (BFS).py'
 ```
 
 ## How to Contribute
